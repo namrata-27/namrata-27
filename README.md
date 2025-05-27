@@ -45,7 +45,6 @@ Currently exploring:
 
 ### 📬 Get in Touch
 
-- ✉️ Email: namratamca85@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/inamrataagrawal](https://www.linkedin.com/in/inamrataagrawal/)
 - 🌍 GitHub: [github.com/namrata-27](https://github.com/namrata-27)
 
