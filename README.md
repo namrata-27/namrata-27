@@ -38,7 +38,6 @@ I’m a results-driven software engineer with over **15 years of experience** de
 
 Currently exploring:
 - Advanced **platform engineering practices**
-- **Infrastructure as Code** (Terraform, Bicep)
 - Machine Learning (Python, Azure ML)
 
 ---
